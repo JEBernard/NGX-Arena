@@ -1,2 +1,2 @@
-NGX-Arena
+Ninja-Runner
 =========
